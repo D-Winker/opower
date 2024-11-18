@@ -1,3 +1,7 @@
+This project is forked from https://github.com/tronikos/opower  
+I modified the __main__.py example script to pull data from my utility provider for the last few years, then push that data to an InfluxDB 1.8 database.  
+
+    
 # opower
 
 A Python library for getting historical and forecasted usage/cost from utilities that use opower.com such as PG&amp;E.
